@@ -18,7 +18,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
+500px_url: 
 facebook_url:
 github_url:
 gitlab_url: 
@@ -28,6 +28,7 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/palvib
+wix_url : https://palvib.wixsite.com/palvi
 
 # build settings
 markdown: kramdown
