@@ -18,17 +18,17 @@
         {% endif %}
         {% endfor %}
         {% for page in site.pages %}
+        {% if page.title == "Research" %}
+        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+        {% for page in site.pages %}
         {% if page.title == "Publications" %}
         <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
         {% endif %}
         {% endfor %}
         {% for page in site.pages %}
-        {% if page.title == "Recent Papers" %}
-        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-        {% endif %}
-        {% endfor %}
-        {% for page in site.pages %}
-        {% if page.title == "Blog" %}
+        {% if page.title == "Art" %}
         <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
         {% endif %}
         {% endfor %}

@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: allposts
 title: Publications
 description: All my publications
-image: assets/images/Publications.jpg
+image: 
 nav-menu: true
 ---
 

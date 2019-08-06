@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Recent Papers
-description: All my papers
-image: assets/images/RecentPapers.jpg
+layout: post
+title: Research
+description: 
+image: 
 navi-menu: true
 ---
 
