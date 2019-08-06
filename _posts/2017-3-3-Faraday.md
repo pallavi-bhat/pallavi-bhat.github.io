@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Faraday rotation measure from magnetic fields in young galaxies
+title: Faraday rotation measure from magnetic fields in young galaxies (2017)
 author1: Sharanya Sur
 author2: Pallavi Bhat
-author3: Kandaswamy Subramanian (2017)
+author3: Kandaswamy Subramanian 
 author4: NA
 image: 
 journals: MN Letters, 475, L72-L76 (arXiv:1711.08865)

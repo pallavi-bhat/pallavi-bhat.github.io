@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Fluctuation dynamos and their Faraday rotation signatures
+title: Fluctuation dynamos and their Faraday rotation signatures (2013)
 author1: Pallavi Bhat
-author2: Kandaswamy Subramanian (2013)
+author2: Kandaswamy Subramanian 
 author3: NA
 author4: NA
 image: 

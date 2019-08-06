@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Fluctuation dynamo at finite correlation times using renewing flows
+title: Fluctuation dynamo at finite correlation times using renewing flows (2015)
 author1: Pallavi Bhat 
-author2: Kandaswamy Subramanian (2015)
+author2: Kandaswamy Subramanian 
 author3: NA
 author4: NA
 image: 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Efficient quasi-kinematic large-scale dynamo as the small-scale dynamo saturates
+title: Efficient quasi-kinematic large-scale dynamo as the small-scale dynamo saturates (2019)
 author1: Pallavi Bhat
 author2: Kandaswamy Subramanian 
-author3: Axel Brandenburg (2019)
+author3: Axel Brandenburg 
 author4: NA
 image: 
 journals: under consideration in PRL (arXiv:1905.08278)

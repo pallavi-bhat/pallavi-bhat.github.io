@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Plasmoid instability in the semi-collisional regime
+title: Plasmoid instability in the semi-collisional regime (2018)
 author1: Pallavi Bhat
-author2: Nuno F. Loureiro (2018)
+author2: Nuno F. Loureiro 
 author3: NA
 author4: NA
 image:

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hydraulic effects in a radiative atmosphere with ionization
+title: Hydraulic effects in a radiative atmosphere with ionization (2016)
 author1: Pallavi Bhat 
-author2: Axel Brandenburg (2016)
+author2: Axel Brandenburg 
 author3: NA
 author4: NA
 image: 

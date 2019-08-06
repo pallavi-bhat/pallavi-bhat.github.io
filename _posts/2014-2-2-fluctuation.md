@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Fluctuation Dynamo at Finite Correlation Times and the Kazantsev Spectrum
+title: Fluctuation Dynamo at Finite Correlation Times and the Kazantsev Spectrum (2014)
 author1: Pallavi Bhat
-author2: Kandaswamy Subramanian (2014)
+author2: Kandaswamy Subramanian 
 author3: NA
 author4: NA
 image: 
