@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Inverse transfer in decaying three dimensional non-helical magnetohydrdynamic turbulence due to magnetic reconnection (soon to be published)
+title: Inverse transfer in decaying three dimensional non-helical magnetohydrdynamic turbulence due to magnetic reconnection
 author1: Pallavi Bhat
 author2: Muni Zhou 
-author3: Nuno F. Loureiro 
+author3: Nuno F. Loureiro (2019)
 author4: NA
-image: 
+image:
+journals: soon to be submitted
 url1: 
 ---
 

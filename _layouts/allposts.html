@@ -22,15 +22,17 @@
               <ol class="posts">
                   {% for post in site.posts %}
                   <li>
-                      <a href="{{ post.url1 }}">{{ post.title }}</a> &raquo;
-                      {% if post.author1 == "Pallavi Bhat" %}<b><i><span>{{ post.author1}}</span></i></b>  {% endif %}
-                      {% if post.author1 != "Pallavi Bhat" and post.author1 != ""%}<i><span>{{ post.author1}}</span></i>  {% endif %}
-                      {% if post.author2 == "Pallavi Bhat" %}<b><i><span>, {{ post.author2}}</span></i></b>  {% endif %}
-                      {% if post.author2 != "Pallavi Bhat" and post.author2 != "NA"%}<i><span>, {{ post.author2}}</span></i>  {% endif %}
-                      {% if post.author3 == "Pallavi Bhat" %}<b><i><span>, {{ post.author3}}</span></i></b>  {% endif %}
-                      {% if post.author3 != "Pallavi Bhat" and post.author3 != "NA"%}<i><span>, {{ post.author3}}</span></i>  {% endif %}
-                      {% if post.author4 == "Pallavi Bhat" %}<b><i><span>, {{ post.author4}}</span></i></b>  {% endif %}
-                      {% if post.author4 != "Pallavi Bhat" and post.author4 != "NA"%}<i><span>, {{ post.author4}}</span></i>  {% endif %}
+                      <a href="{{ post.url1 }}">{{ post.title }}</a> &raquo;<i><span style="color:khaki"> {{ post.journals}}</span></i>
+                      <p>
+                          {% if post.author1 == "Pallavi Bhat" %}<b><i><span>{{ post.author1}}</span></i></b>  {% endif %}
+                          {% if post.author1 != "Pallavi Bhat" and post.author1 != ""%}<i><span>{{ post.author1}}</span></i>  {% endif %}
+                          {% if post.author2 == "Pallavi Bhat" %}<b><i><span>, {{ post.author2}}</span></i></b>  {% endif %}
+                          {% if post.author2 != "Pallavi Bhat" and post.author2 != "NA"%}<i><span>, {{ post.author2}}</span></i>  {% endif %}
+                          {% if post.author3 == "Pallavi Bhat" %}<b><i><span>, {{ post.author3}}</span></i></b>  {% endif %}
+                          {% if post.author3 != "Pallavi Bhat" and post.author3 != "NA"%}<i><span>, {{ post.author3}}</span></i>  {% endif %}
+                          {% if post.author4 == "Pallavi Bhat" %}<b><i><span>, {{ post.author4}}</span></i></b>  {% endif %}
+                          {% if post.author4 != "Pallavi Bhat" and post.author4 != "NA"%}<i><span>, {{ post.author4}}</span></i>  {% endif %}
+                      </p>
                   </li>
                   {% endfor %}
               </ol>
