@@ -8,5 +8,6 @@ author4: NA
 image:
 journals: soon to be submitted
 url1: 
+type: Publication
 ---
 

@@ -8,5 +8,6 @@ author4: NA
 image: 
 journals: ApJ Letters, 791, L34 (arXiv:1406.4250)
 url1: https://arxiv.org/pdf/1406.4250.pdf
+type: Publication
 ---
 

@@ -8,5 +8,6 @@ author4: Kandaswamy Subramanian
 image: 
 journals: MNRAS, 472, 2569B (arXiv:1609.06745)
 url1: https://arxiv.org/pdf/1609.06745.pdf
+type: Publication
 ---
 

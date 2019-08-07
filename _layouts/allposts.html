@@ -21,6 +21,7 @@
           <div class="inner">
               <ol class="posts">
                   {% for post in site.posts %}
+                  {% if post.type == "Publication" %}
                   <li>
                       <a href="{{ post.url1 }}">{{ post.title }}</a> &raquo;<i><span style="color:khaki"> {{ post.journals}}</span></i>
                       <p>
@@ -34,6 +35,7 @@
                           {% if post.author4 != "Pallavi Bhat" and post.author4 != "NA"%}<i><span>, {{ post.author4}}</span></i>  {% endif %}
                       </p>
                   </li>
+                  {% endif %}
                   {% endfor %}
               </ol>
           </div>

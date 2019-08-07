@@ -8,5 +8,6 @@ author4: NA
 image: 
 journals: MN Letters, 475, L72-L76 (arXiv:1711.08865)
 url1: https://arxiv.org/pdf/1711.08865.pdf
+type: Publication
 ---
 

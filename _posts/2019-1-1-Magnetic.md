@@ -8,5 +8,6 @@ author4: Dmitry A. Uzdensky
 image: 
 journals: accepted for publication in Physical Review Research (arXiv:1901.02448)
 url1: https://arxiv.org/pdf/1901.02448.pdf
+type: Publication
 ---
 

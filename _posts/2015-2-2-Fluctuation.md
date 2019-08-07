@@ -8,5 +8,6 @@ author4: NA
 image: 
 journals: Journal of Plasma Physics, Special Issue on 'Zeldovich', 81, 05, 10 (arXiv:1411.0885)
 url1: https://arxiv.org/pdf/1411.0885.pdf
+type: Publication
 ---
 

@@ -8,5 +8,6 @@ author4: NA
 image: 
 journals: MNRAS, 462, 818-829, (arXiv:1605.02433)
 url1: https://arxiv.org/pdf/1605.02433.pdf
+type: Publication
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: allresearch
 title: Research
 description: 
 image: 
-navi-menu: true
+nav-menu: true
 ---
 
 [To Do]Make sure to add all the papers here
