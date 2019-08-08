@@ -1,13 +1,52 @@
 ﻿<section id="research" class="tiles">
-    {% for post in site.posts %}
-    {% if post.type == "Research" %}
+    {% for page in site.pages %}
+    {% if page.type == "Research" and page.title == "Turbulent Dynamos" %}
     <article>
         <span class="image">
-            <img src="{{ post.image }}" alt="" />
+            <img src="{{ page.image }}" alt="" />
         </span>
         <header class="major">
-            <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
-            <p>{{ post.description }}</p>
+            <h3><a href="{{ page.url  | relative_url }}" class="link">{{ page.title }}</a></h3>
+            <p>{{ page.description }}</p>
+        </header>
+    </article>
+    {% endif %}
+    {% endfor %}
+    {% for page in site.pages %}
+    {% if page.type == "Research" and page.title == "Magneto-rotational instability" %}
+    <article>
+        <span class="image">
+            <img src="{{ page.image }}" alt="" />
+        </span>
+        <header class="major">
+            <h3><a href="{{ page.url  | relative_url }}" class="link">{{ page.title }}</a></h3>
+            <p>{{ page.description }}</p>
+        </header>
+    </article>
+    {% endif %}
+    {% endfor %}
+    {% for page in site.pages %}
+    {% if page.type == "Research" and page.title == "Magnetic Reconnection" %}
+    <article>
+        <span class="image">
+            <img src="{{ page.image }}" alt="" />
+        </span>
+        <header class="major">
+            <h3><a href="{{ page.url  | relative_url }}" class="link">{{ page.title }}</a></h3>
+            <p>{{ page.description }}</p>
+        </header>
+    </article>
+    {% endif %}
+    {% endfor %}
+    {% for page in site.pages %}
+    {% if page.type == "Research" and page.title == "Collaborators" %}
+    <article>
+        <span class="image">
+            <img src="{{ page.image }}" alt="" />
+        </span>
+        <header class="major">
+            <h3><a href="{{ page.url  | relative_url }}" class="link">{{ page.title }}</a></h3>
+            <p>{{ page.description }}</p>
         </header>
     </article>
     {% endif %}
