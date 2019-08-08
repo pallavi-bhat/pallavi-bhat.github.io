@@ -1,7 +1,8 @@
 # site settings
 title: Pallavi Bhat
 subtitle: Astrophysicist
-email: palvi.b@gmail.com
+email: P.Bhat@leeds.ac.uk
+email1: palvi.b@gmail.com
 description: Your description here!!!!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
