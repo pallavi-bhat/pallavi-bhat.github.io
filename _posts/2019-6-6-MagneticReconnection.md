@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Magnetic Reconnection
-description: Give the brief here
+description: applied to solar corona and recent laboratory experiments
 image:
 type: Research
 ---

@@ -1,7 +1,7 @@
 ---
 layout: allresearch
 title: Research
-description: 
+description: Astrophysical fluid dynamics, Plasma Astrophysics
 image: 
 nav-menu: true
 ---
