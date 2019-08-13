@@ -17,11 +17,11 @@ nav-menu: true
 </ul>
 <p><strong style="color:khaki">RESEARCH INTERESTS</strong></p>
 <ul>
-	<li>Work on theory and simulations broadly in the area of <strong>astrophysical plasma dynamics: </strong></li>
+	<li>Theory and simulations broadly in the area of <strong>astrophysical fluid dynamics/plasma astrophysics</strong>, with a focus on:</li>
 	<ol>
-		<li>Turbulent dynamo theory, applied to the Sun, stars, galaxies and galaxy</li>
-		<li>MRI-dynamo connection in accretion disks</li>
-		<li>Magnetic reconnection</li>
+		<li>Turbulent dynamo theory - applied to the Sun, stars, galaxies and galaxy clusters</li>
+		<li>Magneto-rotational instability - dynamo connection in accretion disks</li>
+		<li>Magnetic reconnection - applied to solar corona and laboratory experiments</li>
 	</ol>
 	<li style="line-height: 1%">General computational astrophysics</li>
 </ul>

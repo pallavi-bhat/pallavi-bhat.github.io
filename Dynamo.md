@@ -10,8 +10,8 @@ Coherent magnetic fields are observed in stars, galaxies and galaxy clusters and
 The origin of cosmic magnetic fields is thought to be the result of turbulent dynamos which convert kinetic energy of the fluid to magnetic energy.</p>
 <p>There are two kinds of turbulent dynamos.
 	<ul>
-		<li>Mean field (or large scale) dynamos : amplifies fields correlated on scales larger than the fluid stirring scale or the energy carrying scale</li>
-		<li>Fluctuation (or small scale) dynamos : amplifies fields correlated on scales smaller than the fluid stirring scale.</li>
+		<li>Mean field (or large scale) dynamo : amplifies fields correlated on scales larger than the fluid stirring scale or the energy carrying scale</li>
+		<li>Fluctuation (or small scale) dynamo : amplifies fields correlated on scales smaller than the fluid stirring scale.</li>
 	</ul>
 Mean field dynamos are required to explain the large scale component of magnetic fields in systems like stars, spiral galaxies and accretion discs. In particular, fluctuation dynamos
 are generic, and operate with minimal requirements of the underlying fluid flow.

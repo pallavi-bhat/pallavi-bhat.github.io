@@ -6,7 +6,7 @@ image: assets/images/mri.png
 type: Research
 ---
 <p>
-In my postdoc at PPPL, Princeton University, I collaborated with Dr. Fatima Ebrahimi and Prof. Eric Blackman to work on systems that are MRI unstable.
+In my postdoc at PPPL, Princeton University, I collaborated with Dr. Fatima Ebrahimi and Prof. Eric Blackman to work on systems that are unstable to magneto-rotational instability (MRI).
 <br>
 MRI is required to provide for angular momentum transport in accretion disks at rates consistent with that inferred from observations. Also needed in accretion discs are large-scale magnetic fields for forming jets and 
 nonlocal transport of angular momentum and also for understanding the saturation of MRI.

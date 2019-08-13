@@ -7,8 +7,8 @@ type: Research
 ---
 
 <p>
-In my postdoc at PSFC, MIT, I collaborated with Prof Nuno Loureiro, Muni Zhou, a graduate student and Prof. Dmitry Uzdensky. 
-Magnetic reconnection is a fundamental plasma phenomenon, which involves a rapid topological rearrangement of the magnetic
+In my postdoc at PSFC, MIT, I collaborated with Prof Nuno Loureiro, Muni Zhou, a graduate student and Prof. Dmitry Uzdensky to work on magnetic reconnection. 
+It is a fundamental plasma phenomenon, which involves a rapid topological rearrangement of the magnetic
 field, leading to efficient magnetic energy conversion and dissipation. It is widely relevant in fusion tokamaks, space physics and astrophysics. 
 Magnetic reconnection is thought to be the cause of solar flares, substorms in earth's magnetosphere and 
 particle acceleration in jets and pulsar winds
@@ -21,7 +21,7 @@ particle acceleration in jets and pulsar winds
 <br>
 The plasmoid instability has more recently played an important role in advancing the understanding of magnetic reconnection.
 It has been shown to arise at large Lundquist numbers in MHD and render the subsequent
-steady state magnetic reconnection in the system independent of the Lundquist number. 
+steady state magnetic reconnection rate in the system independent of the Lundquist number. 
 In our study we explored the plasmoid instability in the "semi-collisional" regime, where
 the kinetic scales are larger than the expected inner layer width (set by collisions) of the
 current sheet. This feature consequently renders the system prone to the plasmoid instability

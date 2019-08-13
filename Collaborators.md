@@ -16,7 +16,7 @@ type: Research
                       <a style="color:khaki" href="https://scholar.google.co.uk/citations?user=GuVQh3YAAAAJ&hl=en">Eric G. Blackman</a> <i><span >, Department of Physics and Astronomy, University of Rochester, US</span></i>
                   </li>
 				  <li>
-                      <a style="color:khaki" href="https://www.nordita.org/~brandenb/">Axel Brandenburg</a> <i><span >, Nordita, KTH Royal Institute of Technology and Stockholm University</span></i>
+                      <a style="color:khaki" href="https://www.nordita.org/~brandenb/">Axel Brandenburg</a> <i><span >, Nordita, KTH Royal Institute of Technology and Stockholm University, Sweden</span></i>
                   </li>
 				  <li>
                       <a style="color:khaki" href="https://theory.pppl.gov/people/profile.php?pid=58&n=Fatima-Ebrahimi">Fatima Ebrahimi</a> <i><span >, Department of Astrophysical sciences, Princeton University, US</span></i>
