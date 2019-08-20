@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Brief Bio-Data
+title: Brief Bio-Data (Astrophysicist)
 description: 
-image: 
+image: assets/images/biodata.jpg
 nav-menu: true
 ---
 
 <p><strong  style="color:khaki">POSITIONS HELD</strong></p>
 <ul>
-<li>Postdoctoral research fellow currently at School of Mathematics, University of Leeds, UK (2019-).</li>
-<li>Postdoctoral associate at PSFC, Massachusetts Institute of Technology, Cambridge, US. (2016-2018)</li>
-<li>Postdoctoral researcher at PPPL, Princeton University, Princeton, US (2015-2016)</li>
-<li>PhD at IUCAA, India (2010-2015)</li>
+<li>Postdoctoral research fellow currently at <strong><i>School of Mathematics, University of Leeds</i></strong>, UK (2019-).</li>
+<li>Postdoctoral associate at <strong><i>PSFC, Massachusetts Institute of Technology</i></strong>, Cambridge, US. (2016-2018)</li>
+<li>Postdoctoral researcher at <strong><i>PPPL, Princeton University</i></strong>, Princeton, US (2015-2016)</li>
+<li>PhD at <strong><i>IUCAA</i></strong>, India (2010-2015)</li>
 <li>Worked as an Intern at National Centre for RadioAstrophysics (NCRA), Pune (2009-2010).</li>
 <li>Worked as a &rsquo;Design Engineer&rsquo; in a microprocessor design company, Montalvo Systems, Bangalore (2006- 2008)</li>
 </ul>
