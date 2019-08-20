@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Brief Bio-Data (Astrophysicist)
-description: 
+title: Brief Bio-Data
+description: Astrophysicist
 image: assets/images/biodata.jpg
 nav-menu: true
 ---
-
 <p><strong  style="color:khaki">POSITIONS HELD</strong></p>
 <ul>
 <li>Postdoctoral research fellow currently at <strong><i>School of Mathematics, University of Leeds</i></strong>, UK (2019-).</li>
