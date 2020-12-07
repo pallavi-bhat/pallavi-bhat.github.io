@@ -1,18 +1,18 @@
 # site settings
 title: Pallavi Bhat
 subtitle: Astrophysicist
-email: P.Bhat@leeds.ac.uk
+email: pallavi.bhat@icts.res.in
 email1: palvi.b@gmail.com
 description: Your description here!!!!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Pallavi
-street_address: Leeds university
+street_address: ICTS
 city: 
 state: 
 zip_code: 
-country: United Kingdom
-phone: +44 7984 115050
+country: India
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

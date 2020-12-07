@@ -2,8 +2,8 @@
 layout: home
 title: Home
 landing-title: 'Pallavi Bhat'
-description: Research Fellow 
-description1: at the Applied Math Department, University of Leeds
+description: Faculty (Reader) 
+description1: at the International Centre for Theoretical Sciences, India
 image: null
 author: null
 show_tile: false
